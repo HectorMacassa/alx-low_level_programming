@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - This program will assign a random number to the variable n
  * n - number to be checked
  * Return: 0
