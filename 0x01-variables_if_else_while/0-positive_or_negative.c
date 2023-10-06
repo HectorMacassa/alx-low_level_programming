@@ -3,11 +3,9 @@
 #include <stdio.h>
 
 /*
- * Main - This program will assign a random number to the variable n each time it is executed 
+ * Main - This program will assign a random number to the variable n
  * Return: 0
  */
-
-
 int main(void)
 {
 	int n;
