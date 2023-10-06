@@ -1,2 +1,0 @@
-#!/bin/bash
-cpp "C$FILE" -o c
