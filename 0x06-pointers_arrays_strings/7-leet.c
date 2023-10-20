@@ -11,7 +11,7 @@
  */
 char *leet(char *s)
 {
-	int string_length, leetcount;
+	int string_length, leetCount;
 	char leetLetters[] = "aAeEoOtTlL";
 	char leetNums[] = "4433007711";
 
