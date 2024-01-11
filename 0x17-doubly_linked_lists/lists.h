@@ -1,5 +1,9 @@
-#ifndef LISTSHEADER
-#define LISTSHEADER
+#ifndef LISTS_HEADER
+#define LISTS_HEADER
+
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
 
 /**
  * struct dlistint_s - doubly linked list
